@@ -185,6 +185,7 @@
 ### External Resources
 
 - [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) - Multiple FastAPI-specific articles that focus on developing and testing production-ready RESTful APIs, serving up machine learning models, and more.
+- [CheatGrid FastAPI Cheat Sheet](https://www.cheatgrid.com/backend-development/0037-fastapi-cheat-sheet) - Free reference tables for routes, request parameters, Pydantic models, dependency injection, security, middleware and background tasks.
 
 ### Podcasts
 
